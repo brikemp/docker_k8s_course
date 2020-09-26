@@ -11,3 +11,7 @@ o	PR to master
 o	PR triggers push to Travis CI
 o	Tests run
 o	Travis CI deploys to AWS
+
+
+
+- Use Dockerfile.dev for non-production files
